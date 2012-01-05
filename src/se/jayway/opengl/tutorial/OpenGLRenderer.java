@@ -8,7 +8,7 @@ import se.jayway.opengl.tutorial.mesh.Group;
 import se.jayway.opengl.tutorial.mesh.Mesh;
 import android.opengl.GLU;
 import android.opengl.GLSurfaceView.Renderer;
-
+//updated
 public class OpenGLRenderer implements Renderer {
 	private Mesh root;
 	private float rx,ry;
