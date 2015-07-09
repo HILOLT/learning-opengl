@@ -1,0 +1,1 @@
+My attempt at learning OpenGL ES for creating fabulous Android games and amaze the world!
